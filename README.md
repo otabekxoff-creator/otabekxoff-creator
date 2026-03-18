@@ -26,7 +26,7 @@ I am a software developer based in Uzbekistan, specializing in building robust b
 
 ### 📫 Contact & Links
 
-- **Email:** [sizning_emailingiz@gmail.com](mailto:sizning_emailingiz@gmail.com)
+- **Email:** [otabekxoff@gmail.com](mailto:sizning_emailingiz@gmail.com)
 - **Telegram:** [@otabek_avazovich](https://t.me/otabek_avazbekovich) | [@oravshnv](https://t.me/oravshnv)
 - **Portfolio:** [otabekxofff.pythonanywhere.com](https://otabekxofff.pythonanywhere.com)
 - **LinkedIn:** [Insert LinkedIn Link Here]
