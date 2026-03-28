@@ -49,13 +49,13 @@
 ### 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:HaqiqiyEmailingizniShuYergaYozing@gmail.com" target="_blank">
+  <a href="mailto:otabekxoff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/otabek_avazbekovich" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Profile" />
   </a>
-  <a href="https://www.instagram.com/7rv.uz" target="_blank">
+  <a href="https://www.instagram.com/otbk.uz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://otabekxofff.pythonanywhere.com" target="_blank">
