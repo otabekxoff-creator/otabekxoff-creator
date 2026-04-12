@@ -127,11 +127,11 @@ const otabek: Dasturchi = {
 
 ### 📱 Frontend va Mobil Platformalar
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,reactnative,tailwind,html,css,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma,sass&theme=dark&perline=8" />
 
 <br/>
 
-### 🗄️ Ma'lumotlar Bazasi va Cloud Xizmatlari
+### 🗄️ Ma'lumotlar Bazasi va Cloud
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,docker,kubernetes,aws,nginx&theme=dark&perline=8" />
 
@@ -151,19 +151,13 @@ const otabek: Dasturchi = {
 
 <br/>
 
-<a href="https://github.com/otabekxoff-creator">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=otabekxoff-creator&show_icons=true&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0B0C10&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</a>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=otabekxoff-creator&show_icons=true&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&icon_color=FF6B6B&text_color=c9d1d9&bg_color=0B0C10&count_private=true&include_all_commits=true&hide_border=false" />
 &nbsp;
-<a href="https://github.com/otabekxoff-creator">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekxoff-creator&theme=tokyonight&background=0B0C10&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&border=00F5FF&sideLabels=c9d1d9&dates=888888&stroke=1A1A2E&currStreakNum=ffffff&sideNums=ffffff" />
-</a>
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=otabekxoff-creator&theme=tokyonight&background=0B0C10&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&border=00F5FF&sideLabels=c9d1d9&dates=888888&stroke=1A1A2E" />
 
 <br/><br/>
 
-<a href="https://github.com/otabekxoff-creator">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabekxoff-creator&layout=donut&langs_count=10&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&text_color=c9d1d9&bg_color=0B0C10&hide_border=false&custom_title=Eng+Ko%27p+Ishlatiladigan+Tillar" />
-</a>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otabekxoff-creator&layout=compact&langs_count=10&theme=tokyonight&border_color=00F5FF&title_color=00F5FF&text_color=c9d1d9&bg_color=0B0C10&hide_border=false" />
 
 </div>
 
@@ -175,7 +169,11 @@ const otabek: Dasturchi = {
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=otabekxoff-creator&theme=algolia&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=otabekxoff-creator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=otabekxoff-creator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6&rank=SECRET,SSS,SS,S,AAA,AA" />
 
 </div>
 
@@ -195,12 +193,12 @@ const otabek: Dasturchi = {
 
 <div align="center">
 
-## 🐍 `HISSA ILONI — YILLIK COMMITLAR` 🐍
+## 🐍 `HISSA ILONI` 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otabekxoff-creator/otabekxoff-creator/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otabekxoff-creator/otabekxoff-creator/output/github-contribution-grid-snake.svg" />
-  <img alt="Hissa iloni animatsiyasi" src="https://raw.githubusercontent.com/otabekxoff-creator/otabekxoff-creator/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Hissa iloni" src="https://raw.githubusercontent.com/otabekxoff-creator/otabekxoff-creator/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -218,25 +216,25 @@ const otabek: Dasturchi = {
 <td align="center" width="25%">
 
 ### 🏛️ Backend
-Mustahkam va kengayadigan server tizimlari. REST API, GraphQL, mikroservislar — millionlab so'rovlarni uzilmasdan qayta ishlaydi. Ishlash tezligi uchun optimizatsiya — mening ixtisosim.
+Mustahkam va kengayadigan server tizimlari. REST API, GraphQL, mikroservislar — millionlab so'rovlarni uzilmasdan qayta ishlaydi.
 
 </td>
 <td align="center" width="25%">
 
 ### 📱 Mobil
-React Native va Flutter bilan iOS + Android uchun bir vaqtda ishlaydi. Native sifatida ko'rinadigan, tezkor, chiroyli ilovalar. Foydalanuvchi tajribasi — birinchi o'rinda.
+React Native va Flutter bilan iOS + Android uchun bir vaqtda. Native sifatida ko'rinadigan, tezkor, chiroyli ilovalar.
 
 </td>
 <td align="center" width="25%">
 
 ### 🔄 DevOps
-Docker, Kubernetes, GitHub Actions — hamma narsani avtomatlashtirish. Mahsulotni tez va xavfsiz yetkazib berish uchun to'liq CI/CD pipeline quramiz.
+Docker, Kubernetes, GitHub Actions — hamma narsani avtomatlashtirish. To'liq CI/CD pipeline.
 
 </td>
 <td align="center" width="25%">
 
 ### 🧩 Arxitektura
-Monolitdan taqsimlangan tizimlarga. Kengayadigan, ishonchli va saqlanadigan tizimlar loyihalash — har muammoga to'g'ri yechim topamiz.
+Monolitdan taqsimlangan tizimlarga. Har muammoga to'g'ri va kengayadigan yechim topamiz.
 
 </td>
 </tr>
@@ -289,7 +287,7 @@ Bash/Shell   ██████░░░░░░░░░░░░░░░░ 
 
 <br/>
 
-[![Telefon](https://img.shields.io/badge/%F0%9F%93%9E_TELEFON-%2B998_88_001_67_77-00F5FF?style=for-the-badge&labelColor=0B0C10&logoColor=white)](tel:+998880016777)
+[![Telefon](https://img.shields.io/badge/%F0%9F%93%9E_TELEFON-%2B998_88_001_67_77-00F5FF?style=for-the-badge&labelColor=0B0C10)](tel:+998880016777)
 
 <br/><br/>
 
